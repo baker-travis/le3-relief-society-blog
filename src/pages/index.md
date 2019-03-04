@@ -5,17 +5,19 @@ image: /img/jesus-healing-woman.jpg
 heading: Welcome!
 subheading: 'Strengthen Individuals, Home and Family.'
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Newsletter
+  description: >-
+    Welcome to the Little Elm 3rd Ward Relief Society website. This website
+    serves to communicate upcoming events, inspiration, pictures and updates on
+    past activities (in case you miss one) and lessons from Relief Society–for
+    those in Primary/Young Women’s. We welcome all women, members or visitors,
+    to worship with us and serve our community.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Welcome to the Little Elm 3rd Ward Relief Society website. This website serves
+  to communicate upcoming events, inspiration, pictures and updates on past
+  activities (in case you miss one) and lessons from Relief Society–for those in
+  Primary/Young Women’s. We welcome all women, members or visitors, to worship
+  with us and serve our community.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -45,12 +47,12 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Service Times and Location
+  description: |
+    8801 Martop Rd, Aubrey, TX 76227
+
+    Sacrament 11:00-12:00
+    Sunday School/Relief Society 12:10-1:00
 main:
   heading: Great coffee with no compromises
   description: >
