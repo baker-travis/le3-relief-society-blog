@@ -1,19 +1,75 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: Calendar
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+![illustrated image of flowers](/img/flowers-pic.png "flowers")
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+# Lessons and Activities
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+## February
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+Saturday 23- Stake Woman’s Conference
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+​Sunday 24- Lesson on “One in Christ” by Ulisses Soares
+
+## March
+
+Sunday 10- Lesson on “Becoming a Shepherd” by Bonnie H. Cordon
+
+Sunday 24- TBD
+
+Thursday 28- Activity: Communicating with Spouse and Children–guest speakers Christy Martino and Mary Burns 
+
+## April
+
+Sunday 14- Lesson on “Try Try Try” by President Henry B. Eyring
+
+Sunday 28- TBD new conference talk
+
+- - -
+
+# Birthdays
+
+## February
+
+Saturday 9: Katherine Dickenson
+
+Thursday 15: Erin McGee
+
+Sunday 18: Deanna Martin
+
+Monday 19: Melanie Johns
+
+Friday 22: Linda Brown
+
+Saturday 23: Pat Kelley, Emma Smith & Delicia Pennington
+
+## March
+
+Saturday 2: Chalynn Linsley
+
+Monday 4: Heather Chatwin
+
+Friday 8: Jeni Jay Holcomb & Diane Simmons
+
+Saturday 9: Stacey Sansom
+
+Sunday 10: Tara Smith
+
+Sunday 17: Rebecca Walter
+
+Sunday 24: Megan Baker
+
+Monday 25: Learyn Perez
+
+## April
+
+Thursday 4: Heather Ruiz
+
+Wednesday 10: Bonnie Chaney
+
+Sunday 14: Shawna Potocki
+
+Tuesday 16: Betty Jo Davis
+
+Friday 26: Shirleen Mayson
