@@ -3,6 +3,8 @@ templateKey: blog-post
 title: '"One in Christ"'
 date: 2019-02-24T22:00:00.000Z
 description: Lesson from Feb. 24
+tags:
+  - lesson
 ---
 ![Inspirational picture of Jesus Christ](/img/pictures-of-jesus-smiling-1138511-mobile.jpg "Jesus Christ")
 
