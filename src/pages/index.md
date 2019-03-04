@@ -19,7 +19,8 @@ description: >-
   with us and serve our community.
 intro:
   blurbs:
-    - image: ''
+    - image: >-
+        https://raw.githubusercontent.com/baker-travis/le3-relief-society-blog/master/static/img/coffee-gear.png
       text: |-
         Join our Text reminders!
         Text @LittleElm3 to 81010 
