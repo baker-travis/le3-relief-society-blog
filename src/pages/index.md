@@ -19,7 +19,7 @@ description: >-
   with us and serve our community.
 intro:
   blurbs:
-    - image: /img/coffee-gear.png
+    - image: ''
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
